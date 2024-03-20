@@ -1,0 +1,12 @@
+name: mlflow_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11.5
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - mlflow
+  

@@ -1,0 +1,10 @@
+name: MyExperiment
+
+#conda_env: conda.yaml
+
+entry_points:
+  script_mlflow:
+    parameters:
+      dataset: {type: string, default: "final_df_for_dashboard.csv"}
+      C: {type: float, default: 1.0}
+    command: "script_mlflow.py {dataset} {C}"
