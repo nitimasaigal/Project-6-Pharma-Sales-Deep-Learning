@@ -1,0 +1,2 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,dataset,mean accuracy
+20-03-2024 21:40,55.6min,bae9a1e9b1f24bcda6dfe0bd03a1f30d,gifted-snail-129,LOCAL,c:\Users\Niti\NEXT HIKES\PROJECT 6\MLFLOW\experiments\binary_classification\rf_regression.py,Niti,FINISHED,C:\Users\Niti\NEXT HIKES\PROJECT 6\final_df_for_dashboard.csv,0.980884409
